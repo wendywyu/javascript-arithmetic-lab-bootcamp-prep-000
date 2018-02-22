@@ -1,8 +1,5 @@
-function add5() {
-  var a = 1;
-  return a + 5;
-}
+var a = 1
 
-function divideBy3() {
-  number /= 3
+function add5() {
+  return a + 5;
 }
