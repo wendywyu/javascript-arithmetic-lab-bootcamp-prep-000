@@ -6,3 +6,6 @@ function add5() {
 }
 
 add5()
+
+1 + 2
+
