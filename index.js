@@ -1,7 +1,6 @@
-var number = 1
-
 function add5() {
-  number += 5
+  var a = 1;
+  return a + 5; 
 }
 
 function divideBy3() {
